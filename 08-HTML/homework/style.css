@@ -1,0 +1,27 @@
+html{
+    background-color:antiquewhite
+}
+h1{color: rgb(18, 19, 97);}
+img{ width: 400px;}
+#thirdDiv{
+    height: 600px;
+    width: 500px; ;
+    background-color: rgb(37, 6, 121);
+    padding: 50px;
+    border:5px dashed rgb(251, 218, 27) ;
+}
+#spanid{
+    font-size: 18px;
+    margin: 60px;
+}
+body{
+    height: 1000px;
+    background-image: url(https://lh3.googleusercontent.com/L1QmHQgWeBK9yTy9A-8ebA-spc0Fu7nzlMXsn8UySLmxDYFHCG8r3I6cP8yZBUZVxWsVLGJkZIt5cwNrVS6nIXQ1);
+    background-size: 10rem;
+}
+#divclass{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
